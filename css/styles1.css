@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+article h3 {
+  color: blue;
+  text-decoration: underline;
+}
+
+.btn-custom {
+  height: auto;
+}
+
+.contenedor-enlaces {
+  max-width: 100%;
+  display: flex;
+  text-align: start;
+  justify-content: space-between;
+  gap: 10%;
+}
+
+footer img {
+  width: 20%;
+  height: 10%;
+}
+
+.eventos-titulo {
+  margin-bottom: 5%;
+}
+
+.tienda-titulo {
+  margin-bottom: 5%;
+}
+
+.sets-titulo {
+  margin-bottom: 5%;
+  margin-top: 2%;
+}
+
+.navbar-toggler {
+  height: 10%;
+}
+
+.cuenta-main {
+  height: 100%;
+  background-image: url(../img/foto4.JPG);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 2%;
+  box-sizing: border-box;
+}
+
+main section {
+  height: 100%;
+}
+
+.container-sm {
+  border: 5px solid white;
+  width: 40%;
+  padding: 2%;
+  box-sizing: border-box;
+}
+
+/*# sourceMappingURL=styles.css.map */
